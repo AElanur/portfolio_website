@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.content {
+    padding: 5rem 20rem;
+}
+
+.bigHeader {
+    font-size: 5rem;
+}
+
+.title-placement {
+    top: 50%;
+    bottom: 50%;
+}
