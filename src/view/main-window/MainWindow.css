@@ -1,13 +1,9 @@
-@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
 
 
 * {
     /*background-color: #231942;*/
     font-family: "Montserrat", sans-serif;
-}
-.content {
-    padding: 5rem 20rem;
 }
 
 .bigHeader {
