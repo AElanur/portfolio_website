@@ -6,8 +6,8 @@ function LanguageWindow() {
         <div className={"w-screen h-screen block"}>
             <div className={"content h-full"}>
                 <MenuComponent></MenuComponent>
+
             </div>
-            test
         </div>
     )
 }
